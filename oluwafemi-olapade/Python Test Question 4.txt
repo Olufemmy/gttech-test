@@ -1,0 +1,19 @@
+FOR JUST IN
+
+topStories7 = document.querySelectorAll('h1')
+
+for(count=0; count < topStories7.length; count++)
+
+    JSON.stringify(document.write(topStories7[count].textContent));
+
+    document.write('<br />');
+
+FOR TRENDING
+
+topStories7 = document.querySelectorAll('h1')
+
+for(count=0; count < topStories7.length; count++)
+
+    JSON.stringify(document.write(topStories7[count].textContent));
+
+    document.write('<br />');
